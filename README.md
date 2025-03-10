@@ -1,7 +1,7 @@
 # Part of Dream Auto Daily
 Part of Dream - DreamerQuest auto daily check-in and spin
 ## Tools and components required
-1. [Part of Dream](https://dreamerquests.partofdream.io/login?referralCodeForPOD=2e6835e8) Account, Register here: [https://dreamerquests.partofdream.io](https://dreamerquests.partofdream.io/login?referralCodeForPOD=2e6835e8) (Login use Twitter)
+1. [Part of Dream](https://dreamerquests.partofdream.io/login?referralCodeForPOD=c6e38911) Account, Register here: [https://dreamerquests.partofdream.io](https://dreamerquests.partofdream.io/login?referralCodeForPOD=c6e38911) (Login use Twitter)
 2. Don't forget to connect socials and complete tasks!
 3. Account UserID and Cookies
 4. Python3 Latest
@@ -18,10 +18,10 @@ pkg install python python-pip git -y
 ```
 - Download script [Manually](https://github.com/im-hanzou/partofdream-autodaily/archive/refs/heads/main.zip) or use git:
 ```bash
-git clone https://github.com/im-hanzou/partofdream-autodaily
+git clone https://github.com/blacksmith69-glitch/partofdream-autodaily-main.git
 ```
 ### How to get account id and cookies
-- First, login into your [Part of Dream](https://dreamerquests.partofdream.io/login?referralCodeForPOD=2e6835e8) Account
+- First, login into your [Part of Dream](https://dreamerquests.partofdream.io/login?referralCodeForPOD=c6e38911) Account
 - Open your Browser console `CTRL + SHIFT  + I` or `F12`
 - Go to `Network` tab and refresh
 - Search for `https://server.partofdream.io/user/session`
